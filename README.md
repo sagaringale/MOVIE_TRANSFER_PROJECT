@@ -26,6 +26,7 @@ This project was generated with [Python]
 #### Runing Application:
  
 #	- Open terminal.
+	- commands
 
 
 #Steps to execute project 
